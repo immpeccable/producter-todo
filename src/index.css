@@ -5,6 +5,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
+}
+:root{
+  --dark-blue: rgb(19,23,90);
+  --light-blue: rgb(64 110 244);
+  --gray: rgb(145 152 167);
+  --light-gray: rgb(203 207 218);
+  --dark-text: rgb(6 22 68);
+  --border-color: rgb(242 242 242);
+  --check-color: rgb(86 186 149);
+  --checked-text-color: rgb(128 134 148);
+  --bottom-text-color: rgb(179 186 202);
 }
 
 code {
